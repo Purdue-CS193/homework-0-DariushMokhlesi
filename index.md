@@ -1,3 +1,8 @@
+# Dariush Mokhlesi's First CS193 Homework
+- Getting better at coding
+- Having a good time
+- Becoming more confident
+
 ## Welcome to GitHub Pages
 ## This is a new website
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
